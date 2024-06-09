@@ -19,7 +19,7 @@ https://github.com/nikisha77/Text-video-generation/assets/114274869/f2f11468-260
 
 ## Documentation
 
-[Documentation](https://docs.google.com/document/d/1GYHGtlShSQ7VmOgTnEwXoxNFqX-TPx4Rg0LLpdFGVW8/edit?usp=drive_link)
+[Read our report here !](https://drive.google.com/file/d/1o731hKUEc1PChD01ZZ6EyuFb46ancSoG/view?usp=drive_link)
 
 
 ## Environment Variables
