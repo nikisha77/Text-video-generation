@@ -11,6 +11,7 @@ Learning has always been a vital part of every individual's life. Sometimes it m
 
 A Pride of lion in forest 
 
+https://github.com/nikisha77/Text-video-generation/assets/114274869/f2f11468-260f-4ae3-a8da-a13ec12c9cad 
 
 
 
